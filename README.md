@@ -6,3 +6,7 @@ demo repository
 
 some description!
 
+## Local Devlopment
+
+1. Open index.html in your browser.
+
